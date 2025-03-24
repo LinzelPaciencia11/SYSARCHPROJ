@@ -72,7 +72,7 @@ namespace SYSARCH_proj
                 {
                     chkIsActive.Checked = false;
                 }
-                MessageBox.Show($"Clicked Row Data:\n The CollegeID: {txtCollegeID.Text}\nDeptID: {txtDeptID.Text}\nDeptName: {txtDeptName.Text}\nDeptCode: {txtDeptCode.Text}");
+                MessageBox.Show($"Clicked Row Data:\n CollegeID: {txtCollegeID.Text}\nDeptID: {txtDeptID.Text}\nDeptName: {txtDeptName.Text}\nDeptCode: {txtDeptCode.Text}");
             }
         }
 
@@ -124,7 +124,7 @@ namespace SYSARCH_proj
 
                     if (rowsAffected > 0)
                     {
-                        MessageBox.Show("Department record updated successfully! Good Job!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        MessageBox.Show("Department record updated successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         RefreshDataGrid();
                     }
                     else
