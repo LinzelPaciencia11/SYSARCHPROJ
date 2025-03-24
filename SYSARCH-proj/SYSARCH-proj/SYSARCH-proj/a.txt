@@ -1,0 +1,12 @@
+
+-NAMING CONVENTIONS FOR TEXTBOXES CHECKBOX AND BUTTONS-
+txtCollegeID - CollegeID
+txtColName - CollegeName
+txtColCode - CollegeCode
+txtDeptID - DepartmentID
+txtDeptName - DepartmentName
+txtDeptCode- DepartmentCode
+chkIsActive - IsActive
+btnAdd - button for add
+btnUpdate - button for update 
+btnDelete - button for delete

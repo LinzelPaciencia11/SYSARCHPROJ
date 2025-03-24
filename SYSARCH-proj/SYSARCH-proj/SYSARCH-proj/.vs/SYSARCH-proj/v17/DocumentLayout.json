@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Documents\\SYSARCH-proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|c:\\users\\1\\documents\\sysarch-proj\\sysarch-proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|solutionrelative:sysarch-proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|C:\\Users\\1\\Documents\\SYSARCH-proj\\sysarch-proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|solutionrelative:sysarch-proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|C:\\Users\\1\\Documents\\SYSARCH-proj\\sysarch-proj\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|solutionrelative:sysarch-proj\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|C:\\Users\\1\\Documents\\SYSARCH-proj\\sysarch-proj\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|solutionrelative:sysarch-proj\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SYSARCH-proj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|C:\\Users\\1\\Documents\\SYSARCH-proj\\sysarch-proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|solutionrelative:sysarch-proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|c:\\users\\1\\documents\\sysarch-proj\\sysarch-proj\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SYSARCH-proj",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\SYSARCH-proj.csproj",
+              "RelativeDocumentMoniker": "SYSARCH-proj\\SYSARCH-proj.csproj",
+              "ToolTip": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\SYSARCH-proj.csproj",
+              "RelativeToolTip": "SYSARCH-proj\\SYSARCH-proj.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-27T14:37:21.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SYSARCH-proj\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\Form1.Designer.cs",
+              "RelativeToolTip": "SYSARCH-proj\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:07:12.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\Form1.cs",
+              "RelativeDocumentMoniker": "SYSARCH-proj\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\Form1.cs",
+              "RelativeToolTip": "SYSARCH-proj\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:44:33.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\DbHelper.cs",
+              "RelativeDocumentMoniker": "SYSARCH-proj\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\DbHelper.cs",
+              "RelativeToolTip": "SYSARCH-proj\\DbHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:21:10.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\Form1.cs",
+              "RelativeDocumentMoniker": "SYSARCH-proj\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\Form1.cs [Design]",
+              "RelativeToolTip": "SYSARCH-proj\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:15:00.15Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\Program.cs",
+              "RelativeDocumentMoniker": "SYSARCH-proj\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\SYSARCH-proj\\SYSARCH-proj\\Program.cs",
+              "RelativeToolTip": "SYSARCH-proj\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:20:38.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
