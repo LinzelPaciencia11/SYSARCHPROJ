@@ -18,7 +18,7 @@ namespace SYSARCH_proj
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show("An error occurred:"+ex.Message);
             }
         }
     }

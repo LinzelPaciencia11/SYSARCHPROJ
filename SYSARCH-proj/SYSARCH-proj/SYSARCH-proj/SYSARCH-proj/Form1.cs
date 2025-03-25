@@ -129,7 +129,7 @@ namespace SYSARCH_proj
                     }
                     else
                     {
-                        MessageBox.Show("No records were updated. Please check your inputs.", "Update Failed", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        MessageBox.Show("No records were updated. Ensure the department exists and changes were made.", "Update Failed", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     }
                 }
                 catch (Exception ex)
