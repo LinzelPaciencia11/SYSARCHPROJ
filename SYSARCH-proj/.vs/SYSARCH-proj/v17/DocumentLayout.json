@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|solutionrelative:sysarch-proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|c:\\users\\1\\desktop\\sysarchproj\\sysarch-proj\\sysarch-proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|C:\\Users\\1\\Desktop\\SYSARCHPROJ\\SYSARCH-proj\\sysarch-proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4C3E227F-A9B7-437B-A83A-36CC645E1EB0}|SYSARCH-proj\\SYSARCH-proj.csproj|solutionrelative:sysarch-proj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "SYSARCH-proj\\Form1.cs",
               "ToolTip": "C:\\Users\\1\\Desktop\\SYSARCHPROJ\\SYSARCH-proj\\SYSARCH-proj\\Form1.cs",
               "RelativeToolTip": "SYSARCH-proj\\Form1.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAmwH4AAABQAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAcwEcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T15:21:58.572Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\1\\Desktop\\SYSARCHPROJ\\SYSARCH-proj\\SYSARCH-proj\\Form1.cs [Design]",
               "RelativeToolTip": "SYSARCH-proj\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T15:21:54.967Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-24T15:21:54.967Z"
             }
           ]
         }
