@@ -24,7 +24,7 @@ php artisan serve
 
 # Git workflow explanation
 
-Step 2: Implement Git Branching & Workflow
+To Implement Git Branching & Workflow
 me and my partner will each create at least two feature branches for different tasks using the command:
 `git checkout -b feature-branch-name`
 This ensures that we can work on separate features without interfering with the main branch.
@@ -37,8 +37,8 @@ After committing, we will push our feature branches to the remote repository wit
 `git push origin feature-branch-name`
 Then, we will create a Pull Request (PR) to propose merging our feature branch into the main branch.
 
-Step 3: Pull Requests & Code Reviews
-me and my partner will review each other’s PRs to check for code quality and functionality.
+after, for the Pull Requests & Code Reviews
+-me and my partner will review each other’s PRs to check for code quality and functionality.
 If necessary, we will provide feedback through comments.
 Before merging, we must resolve any conflicts to ensure a smooth integration.
 Only after addressing all issues will we approve and merge the feature branch into the main branch.
