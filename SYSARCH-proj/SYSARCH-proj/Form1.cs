@@ -72,7 +72,7 @@ namespace SYSARCH_proj
                 {
                     chkIsActive.Checked = false;
                 }
-                MessageBox.Show($"Clicked Row Data:\nCollegeID: {txtCollegeID.Text}\nDeptID: {txtDeptID.Text}\nDeptName: {txtDeptName.Text}\nDeptCode: {txtDeptCode.Text}");
+                MessageBox.Show($"Clicked Row Data:\n CollegeID: {txtCollegeID.Text}\nDeptID: {txtDeptID.Text}\nDeptName: {txtDeptName.Text}\nDeptCode: {txtDeptCode.Text}");
             }
         }
 
@@ -111,7 +111,7 @@ namespace SYSARCH_proj
                         MessageBox.Show("Department ID not found. Please enter a valid Department ID.", "Update Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         return;
                     }
-
+                    //TRY
                     string updateQuery = "UPDATE Department SET DepartmentName = ?, DepartmentCode = ?, CollegeID = ?, IsActive = ? WHERE DepartmentID = ?";
                     OleDbCommand updateCommand = new OleDbCommand(updateQuery, connection);
                     updateCommand.Parameters.AddWithValue("?", deptName);
