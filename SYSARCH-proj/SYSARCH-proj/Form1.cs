@@ -39,20 +39,35 @@ namespace SYSARCH_proj
         {
             try
             {
-                if (DbHelper.conn == null || DbHelper.conn.State != ConnectionState.Open)
+                if (DbHelper.conn == null)
                 {
                     DbHelper.GetConnection();
                 }
 
+                if (DbHelper.conn.State != ConnectionState.Open)
+                {
+                    DbHelper.conn.Open();
+                }
+
                 string query = "SELECT * FROM Department";
-                OleDbDataAdapter adapter = new OleDbDataAdapter(query, DbHelper.conn);
-                DataTable dt = new DataTable();
-                adapter.Fill(dt);
-                dataGridView1.DataSource = dt;
+
+                using (OleDbDataAdapter adapter = new OleDbDataAdapter(query, DbHelper.conn))
+                {
+                    DataTable dt = new DataTable();
+                    adapter.Fill(dt);
+                    dataGridView1.DataSource = dt;
+                }
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Error refreshing data: {ex.Message}");
+                MessageBox.Show($"Error refreshing data: {ex.ToString()}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            finally
+            {
+                if (DbHelper.conn != null && DbHelper.conn.State == ConnectionState.Open)
+                {
+                    DbHelper.conn.Close();
+                }
             }
         }
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
