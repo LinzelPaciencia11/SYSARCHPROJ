@@ -23,7 +23,7 @@ composer install
 php artisan serve
 
 # Git workflow explanation
-<!--
+
 Step 2: Implement Git Branching & Workflow
 me and my partner will each create at least two feature branches for different tasks using the command:
 `git checkout -b feature-branch-name`
@@ -42,4 +42,3 @@ me and my partner will review each other’s PRs to check for code quality and f
 If necessary, we will provide feedback through comments.
 Before merging, we must resolve any conflicts to ensure a smooth integration.
 Only after addressing all issues will we approve and merge the feature branch into the main branch.
--->
